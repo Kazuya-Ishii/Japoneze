@@ -32,6 +32,9 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap-sass'
 
+gem 'devise'
+gem 'omniauth-twitter'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
